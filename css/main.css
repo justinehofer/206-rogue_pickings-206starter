@@ -152,6 +152,7 @@ footer {
 	border-top: 3px solid #eee;
 	margin: 0 auto;
 	text-align: center;
+	display: flex;
 }
 footer span {
 	font-family: 'Galada', cursive;
