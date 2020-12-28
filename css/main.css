@@ -78,6 +78,7 @@ header nav ul li a{
 .bottom-section {
 	margin: 0 auto;
 	display: flex;
+	justify-content: center;
 }
 
 .main-image {
