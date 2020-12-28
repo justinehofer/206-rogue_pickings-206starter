@@ -154,6 +154,7 @@ footer {
 	text-align: center;
 	display: flex;
 	justify-content: center;
+	align-items: center;
 }
 footer span {
 	font-family: 'Galada', cursive;
