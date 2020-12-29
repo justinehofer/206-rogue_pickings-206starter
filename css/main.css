@@ -86,7 +86,6 @@ header nav ul li a{
 	justify-content: center;
 	align-items: center;
 	flex-flow: row wrap;
-	
 }
 
 .main-image {
@@ -155,7 +154,7 @@ header nav ul li a{
 
 /*The widths are in a percentage!*/
 footer {
-	height: 50px;
+	
 	border-top: 3px solid #eee;
 	margin: 0 auto;
 	text-align: center;
