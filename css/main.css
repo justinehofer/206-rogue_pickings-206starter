@@ -154,9 +154,7 @@ header nav ul li a{
 
 /*The widths are in a percentage!*/
 footer {
-	
 	border-top: 3px solid #eee;
-	margin: 0 auto;
 	text-align: center;
 	display: flex;
 	justify-content: center;
