@@ -60,6 +60,7 @@ header h1 {
 	margin: 0;
 	padding: 38px 0;
 	border-bottom: 3px solid #77a466;
+	width: 100%;
 }
 header h1 span {
 	color: #77a466;
