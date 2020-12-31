@@ -182,5 +182,6 @@ footer span {
 	.section-two,
 	.section-three {
 		border-top: none;
+		flex-basis: 30%;
 	}
 }
