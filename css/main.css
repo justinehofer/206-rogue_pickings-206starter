@@ -191,4 +191,8 @@ footer span {
 	header nav {
 		width: 40%;
 	}
+
+	header nav ul {
+		display: flex;
+	}
 }
