@@ -184,4 +184,8 @@ footer span {
 		border-top: none;
 		flex-basis: 30%;
 	}
+
+	.section-two {
+		border-left: 1px solid #eee;
+	}
 }
