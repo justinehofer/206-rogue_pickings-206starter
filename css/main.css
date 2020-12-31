@@ -180,4 +180,8 @@ footer span {
 	header {
 		justify-content: space-between;
 	}
+
+	header h1 {
+		width: 30%;
+	}
 }
